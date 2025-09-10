@@ -1,2 +1,3 @@
 # resumo-do-lab
 Criei esse repositório para montar um resumo dos conceitos aprendidos no laboratórios da DIO   
+Realizado a criação da conta no Azure, somos apresentados a interface com todos os seus recursos disponiveis para gerenciamos nossos recursos em cloud, como recursos para organizar a infraestrutura como serviço e plataforma como serviço mencionados no laboratório. Configurações de recursos sobre rede dentro do dominio de rede, como o uso do "bastion" como servidor intermediario para acessar de forma mais controlada os demais servidores de sua estrutura entre outros recursos que serão ensinados no decorrer dos laboratórios.
